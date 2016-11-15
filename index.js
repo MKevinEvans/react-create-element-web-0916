@@ -1,3 +1,5 @@
+const title = React.createElement('h1', {}, 'My First React Code');
+
 const list =
   React.createElement('div', {},
     React.createElement('h1', {}, 'My favorite ice cream flavors'),
